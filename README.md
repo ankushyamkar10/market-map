@@ -34,7 +34,7 @@
 ### Steps  
 1. Clone the repository:  
    bash
-   git clone https://github.com/ankushyamkar10/mparket-map.git  
+   git clone https://github.com/ankushyamkar10/market-map.git  
    cd market-map  
      
 
